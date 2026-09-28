@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.su
+
+# IDE files
+.project
+.cproject
+.settings/
+*.launch
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
